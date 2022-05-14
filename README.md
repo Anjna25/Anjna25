@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Anjana Chowdary</h1>
-<h3 align="center">Am an engineering student from Sathyabama Institute of Science and technology</h3>
+<h3 align="center">Am an engineering student from Sathyabama Institute of Science and Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjna25&label=Profile%20views&color=0e75b6&style=flat" alt="anjna25" /> </p>
 
